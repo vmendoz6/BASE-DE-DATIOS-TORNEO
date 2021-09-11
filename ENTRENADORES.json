@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6137bb3983247832ab807e36"
+  },
+  "nombre": "Daniel diaz",
+  "edad": 38,
+  "tel": 3135567890,
+  "cedula": 1126887333,
+  "equipo": "los amigos de moe"
+},{
+  "_id": {
+    "$oid": "6137bb7583247832ab807e38"
+  },
+  "nombre": "javier caicedo",
+  "edad": 33,
+  "tel": 3135567890,
+  "cedula": 1126887675,
+  "equipo": "la novena"
+},{
+  "_id": {},
+  "nombre": "jose mendez",
+  "edad": 35,
+  "tel": 3138108976,
+  "cedula": 1151172367,
+  "equipo": "soccer club JR"
+},{
+  "_id": {
+    "$oid": "6137bc9c83247832ab807e3c"
+  },
+  "nombre": "libardo ramirez",
+  "edad": 39,
+  "tel": 3103214567,
+  "cedula": 89056333,
+  "equipo": "budweiser FC"
+},{
+  "_id": {
+    "$oid": "6137bcd383247832ab807e3d"
+  },
+  "nombre": "luis ortizz",
+  "edad": 43,
+  "tel": 3132456543,
+  "cedula": 9898888499,
+  "equipo": "Grupo son marketing FC"
+},{
+  "_id": {
+    "$oid": "6137bd1f83247832ab807e3e"
+  },
+  "nombre": "esteban garcia",
+  "edad": 28,
+  "tel": 3124567879,
+  "cedula": 267788963,
+  "equipo": "club la 18 FC"
+},{
+  "_id": {
+    "$oid": "6137bd6483247832ab807e3f"
+  },
+  "nombre": "jose castillo",
+  "edad": 48,
+  "tel": 3125647867,
+  "cedula": 788997645,
+  "equipo": "ED electricos"
+},{
+  "_id": {
+    "$oid": "6137bdaa83247832ab807e40"
+  },
+  "nombre": "mario moreno",
+  "edad": 33,
+  "tel": 3107897654,
+  "cedula": 90776543,
+  "equipo": "la 26 FC"
+},{
+  "_id": {
+    "$oid": "6137bddc83247832ab807e41"
+  },
+  "nombre": "fredy martinez",
+  "edad": 23,
+  "tel": 3125467867,
+  "cedula": 8764893,
+  "equipo": "Olimpicos DC"
+}]

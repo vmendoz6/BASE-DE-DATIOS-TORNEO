@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6137de1383247832ab807e68"
+  },
+  "PARTIDO": "AMIGOS DE MOE VS BUDWEISER",
+  "CANCHA": "1",
+  "FECHA": "10/08/2021",
+  "HORA": "17:50",
+  "RESULTADO": "3-0",
+  "fecha": "1"
+},{
+  "_id": {
+    "$oid": "6137def183247832ab807e69"
+  },
+  "PARTIDO": "AMIGOS DE MOE VS ED ELECTRICOS",
+  "CANCHA": "1",
+  "FECHA": "10/09/2021",
+  "HORA": "17:50",
+  "RESULTADO": "2-1",
+  "fecha": "3"
+},{
+  "_id": {
+    "$oid": "6137df3683247832ab807e6a"
+  },
+  "PARTIDO": "ED ELECTRICOS VS BUDWEISER",
+  "CANCHA": "1",
+  "FECHA": "15/08/2021",
+  "HORA": "17:50",
+  "RESULTADO": "1-0",
+  "fecha": "2"
+},{
+  "_id": {
+    "$oid": "6137e02683247832ab807e6b"
+  },
+  "PARTIDO": "LA NOVENA VS GRUPO SON MARKETING",
+  "CANCHA": "2",
+  "FECHA": "10/08/2021",
+  "HORA": "17:50",
+  "RESULTADO": "2-0",
+  "fecha": "1"
+},{
+  "_id": {
+    "$oid": "6137e06a83247832ab807e6c"
+  },
+  "PARTIDO": "LA NOVENA VS LA 26 FC",
+  "CANCHA": "2",
+  "FECHA": "15/08/2021",
+  "HORA": "17:50",
+  "RESULTADO": "1-0",
+  "fecha": "2"
+},{
+  "_id": {
+    "$oid": "6137e09d83247832ab807e6d"
+  },
+  "PARTIDO": "LA 26 FC VS GRUPO SON MARKETING",
+  "CANCHA": "2",
+  "FECHA": "10/09/2021",
+  "HORA": "17:50",
+  "RESULTADO": "2-1",
+  "fecha": "3"
+},{
+  "_id": {
+    "$oid": "6137e13e83247832ab807e6e"
+  },
+  "PARTIDO": "SOCCER JR VS CLUB LA 18",
+  "CANCHA": "3",
+  "FECHA": "10/08/2021",
+  "HORA": "17:50",
+  "RESULTADO": "1-0",
+  "fecha": "1"
+},{
+  "_id": {
+    "$oid": "6137e17b83247832ab807e6f"
+  },
+  "PARTIDO": " OCCER JR VS OLIMPICOS DC",
+  "CANCHA": "3",
+  "FECHA": "15/08/2021",
+  "HORA": "17:50",
+  "RESULTADO": "1-3",
+  "fecha": "2"
+},{
+  "_id": {
+    "$oid": "6137e1a783247832ab807e70"
+  },
+  "PARTIDO": "OLIMPICOS DC VS CLUB LA 18",
+  "CANCHA": "3",
+  "FECHA": "10/09/2021",
+  "HORA": "17:50",
+  "RESULTADO": "2-0",
+  "fecha": "3"
+},{
+  "_id": {
+    "$oid": "6137e28883247832ab807e71"
+  },
+  "PARTIDO": "AMIGOS DE MOE VS LA NOVENA",
+  "CANCHA": "1",
+  "FECHA": "10/10/2021",
+  "HORA": "17:50",
+  "RESULTADO": "3-1",
+  "fecha": "4"
+},{
+  "_id": {
+    "$oid": "6137e2f283247832ab807e72"
+  },
+  "PARTIDO": " A 26 FC VS SOCCER CLUB JR",
+  "CANCHA": "2",
+  "FECHA": "10/10/2021",
+  "HORA": "17:50",
+  "RESULTADO": "3-2",
+  "fecha": "4"
+},{
+  "_id": {
+    "$oid": "6137e33683247832ab807e73"
+  },
+  "PARTIDO": "AMIGOS DE MOE VS LA 26 FC",
+  "CANCHA": "1",
+  "FECHA": "15/10/2021",
+  "HORA": "17:50",
+  "RESULTADO": "3-9",
+  "fecha": "5"
+}]

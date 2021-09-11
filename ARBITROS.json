@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "613681a766bc2b4e0120a868"
+  },
+  "nombre": "juan charrasquiado",
+  "edad": 38,
+  "tel": 3135567890,
+  "cedula": 1126887675,
+  "tarjetas": [
+    {
+      "rojas": "3"
+    },
+    {
+      "amarillas": "5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6136821766bc2b4e0120a869"
+  },
+  "nombre": "carlos valero",
+  "edad": 25,
+  "tel": 3126789089,
+  "cedula": 8078645,
+  "tarjetas": [
+    {
+      "rojas": "1"
+    },
+    {
+      "amarillas": "7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6136826866bc2b4e0120a86a"
+  },
+  "nombre": "jose muñoz",
+  "edad ": 30,
+  "tel": 3132453637,
+  "cedula": 20344567,
+  "tarjetas": [
+    {
+      "rojas": "0"
+    },
+    {
+      "amarillas": "2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "613682b266bc2b4e0120a86b"
+  },
+  "nombre": "simon mendoza",
+  "edad": 41,
+  "tel": 3132912798,
+  "cedula ": 2059749,
+  "tarjetas": [
+    {
+      "rojas": "2"
+    },
+    {
+      "amarillas": "1"
+    }
+  ]
+}]

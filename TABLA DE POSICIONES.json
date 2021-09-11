@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "6137be6e83247832ab807e46"
+  },
+  "Grupo": "A",
+  "posiciones": "FECHA 1",
+  "LOS AMIGOS DE MOE": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "BUDWEISER": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "0"
+    },
+    {
+      "POSICION": "3"
+    }
+  ],
+  "ED ELECTRICOS": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d40183247832ab807e4f"
+  },
+  "Grupo": "B",
+  "posiciones": "FECHA 1",
+  "LA NOVENA": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "GRUPO SON MARKETING": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "0"
+    },
+    {
+      "POSICION": "3"
+    }
+  ],
+  "LA 26 FC": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d44083247832ab807e50"
+  },
+  "Grupo": "C",
+  "posiciones": "FECHA 1",
+  " SOCCER CLUB JR ": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "CLUB LA 18 FC": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "0"
+    },
+    {
+      "POSICION": "3"
+    }
+  ],
+  "OLIMPICOS DC": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d7c983247832ab807e51"
+  },
+  "Grupo": "A",
+  "posiciones": "FECHA 2",
+  "LOS AMIGOS DE MOE": [
+    {
+      "PJ": "2"
+    },
+    {
+      "PUNTOS": "6"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "BUDWEISER": [
+    {
+      "PJ": "2"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "2"
+    }
+  ],
+  "ED ELECTRICOS": [
+    {
+      "PJ": "2"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d8cc83247832ab807e53"
+  },
+  "Grupo": "B",
+  "posiciones": "FECHA 2",
+  "LA NOVENA": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "GRUPO SON MARKETING": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "0"
+    },
+    {
+      "POSICION": "3"
+    }
+  ],
+  "LA 26 FC": [
+    {
+      "PJ": "1"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d8ee83247832ab807e54"
+  },
+  "Grupo": "C",
+  "posiciones": "FECHA 2",
+  " SOCCER CLUB JR ": [
+    {
+      "PJ": "2"
+    },
+    {
+      "PUNTOS": "6"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "CLUB LA 18 FC": [
+    {
+      "PJ": "2"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "2"
+    }
+  ],
+  "OLIMPICOS DC": [
+    {
+      "PJ": "2"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d91d83247832ab807e55"
+  },
+  "Grupo": "A",
+  "posiciones": "FECHA 3",
+  "LOS AMIGOS DE MOE": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "9"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "BUDWEISER": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "6"
+    },
+    {
+      "POSICION": "2"
+    }
+  ],
+  "ED ELECTRICOS": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d93783247832ab807e56"
+  },
+  "Grupo": "B",
+  "posiciones": "FECHA 3",
+  "LA NOVENA": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "3"
+    }
+  ],
+  "GRUPO SON MARKETING": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "6"
+    },
+    {
+      "POSICION": "2"
+    }
+  ],
+  "LA 26 FC": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "6"
+    },
+    {
+      "POSICION": "1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6137d95583247832ab807e57"
+  },
+  "Grupo": "C",
+  "posiciones": "FECHA 3",
+  " SOCCER CLUB JR ": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "9"
+    },
+    {
+      "POSICION": "1"
+    }
+  ],
+  "CLUB LA 18 FC": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "3"
+    },
+    {
+      "POSICION": "3"
+    }
+  ],
+  "OLIMPICOS DC": [
+    {
+      "PJ": "3"
+    },
+    {
+      "PUNTOS": "6"
+    },
+    {
+      "POSICION": "2"
+    }
+  ]
+}]

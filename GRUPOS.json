@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6137c1f983247832ab807e49"
+  },
+  "GRUPO": "A",
+  "EQUIPOS": "AMIGOS DE MOE,BUDWEISER,ED ELECTRICOS"
+},{
+  "_id": {
+    "$oid": "6137c2a883247832ab807e4b"
+  },
+  "GRUPO": "B",
+  "EQUIPOS": "LA NOVENA,GRUPO SON MARKETING,LA 26 FC"
+},{
+  "_id": {
+    "$oid": "6137c2df83247832ab807e4c"
+  },
+  "GRUPO": "C",
+  "EQUIPOS": "SECCER CLUB JR,CLUB LA 18 FC,OLIMPICOS DC"
+}]
